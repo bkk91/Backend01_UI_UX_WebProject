@@ -163,8 +163,23 @@ WebContent -> auth 폴더의 regier 및 login.jsp의 요청을 주면 userdb의 
 <details>
 <summary> <b> 7. 평가 (Evaluation) </b> </summary>
 <div markdown="1">
- 
- 프론트단 
+<br>
+
+- 비트컴퓨터 교육과정 내에서 자바 코딩, Html, MySQL, WebServlet을 각각 배웠고,
+이를 활용한 메인 프로젝트 전, 간단한 테스트성 프로젝트를 진행했다.
+
+- 프로젝트의 흐름은 UI 구성 및 구현 후 HTML 파일을 JSP로 변환,
+MySQL Workbench에 DB 구성을 한 후,  JDBC를 활용하여 http get/post 순서로 구현했다.
+
+- 팀장으로서, 각각의 인원을 할당함에 있어 어려움이 있었다.
+배우는 과정이기 때문에 모두다 처음부터 끝까지 같이 작업하고 싶었으나, 실상
+모든 사람이 동일하게 작업한다면 효율이 팀 프로젝트를 하는 의미가 없다고 생각했기 때문에
+각 팀원이 자신있어하는 part 별로 FrontEnd, DB, BackEnd 부분의 인원을 나누었고
+먼저 할당량이 마무리되면 다른팀원의 파트를 할당하는 식으로 작업을 했다.
+
+- 사실 이 프로젝트는 2주도 되지 않는 기간동안 진행 된 테스트 성 프로젝트 였기 때문에,
+front단의 완성도 보다는 각각의 기능 흐름과 구현에 중점을 두었다.
+
 
  </div>
 </details>
