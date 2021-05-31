@@ -110,6 +110,8 @@ JSP로 변환된 UI를 구성하는 요소
  <img src="./img/main2.png"  width="300">
  <img src="./img/main3.png"  width="300">
  <img src="./img/main4.png"  width="300">
+ <img src="./img/main5.png"  width="300">
+ <img src="./img/main6.png"  width="300">
 
  </div>
 </details>
