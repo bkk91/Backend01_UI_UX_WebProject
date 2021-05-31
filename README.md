@@ -36,7 +36,7 @@
 팀 인원 6명을 3명 / 3명 나누어 작업
 작업 시 FILEZILLA에 이미지 파일과 VERSION을 관리하여 지속적인 파일 작업
 
-<img src="./img/img2.png"  width="300">
+<img src="./img/img2.png"  width="150">
 
 - 핵심 기능 : 
 사용자의 Register (사용자 등록) Login / Logout
@@ -76,9 +76,9 @@ Reference2 : https://unsplash.com/
 <summary> <b> 3. 핵심기능 리스트(UML) </b> </summary>
 <div markdown="1">
  
- <img src="./img/data1.png"  width="300">
- <img src="./img/data2.png"  width="300">
- <img src="./img/data3.png"  width="300">
+ <img src="./img/data1.png"  width="200">
+ <img src="./img/data2.png"  width="200">
+ <img src="./img/data3.png"  width="400">
 
  </div>
 </details>
@@ -87,11 +87,11 @@ Reference2 : https://unsplash.com/
 <summary> <b> 4. 모델링 </b> </summary>
 <div markdown="1">
  
- <img src="./img/modeling1.png"  width="300">
+ <img src="./img/modeling1.png"  width="400">
 
 ###### 모델
 MySQL에 등록된 모든 데이터
-1) 사용자 2) 강아지 3) 게시판
+a.사용자 b.강아지 c.게시판
 
 ###### 뷰
 JSP로 변환된 UI를 구성하는 요소
