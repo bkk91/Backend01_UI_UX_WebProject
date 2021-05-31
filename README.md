@@ -78,6 +78,7 @@ Reference2 : https://unsplash.com/
  
  <img src="./img/data1.png"  width="200">
  <img src="./img/data2.png"  width="200">
+ <br>
  <img src="./img/data3.png"  width="400">
 
  </div>
@@ -107,10 +108,10 @@ JSP로 변환된 UI를 구성하는 요소
 <div markdown="1">
  
  <img src="./img/main1.png"  width="300">
- <img src="./img/main2.png"  width="300">
- <img src="./img/main3.png"  width="300">
- <img src="./img/main4.png"  width="300">
+ <img src="./img/main2.png"  width="300"><br>
  <img src="./img/main5.png"  width="300">
+ <img src="./img/main7.png"  width="300"><br>
+ <img src="./img/main3.png"  width="300">
  <img src="./img/main6.png"  width="300">
 
  </div>
@@ -124,7 +125,7 @@ JSP로 변환된 UI를 구성하는 요소
 
 HTML 파일을 JSP 파일로 변환하여 WebContent의 하위 폴더 형식으로 구성
 
- <img src="./img/backend1.png"  width="300">
+ <img src="./img/back1.png"  width="300">
  
 ###### Tomcat Server와 MySQL DB 연결
 
@@ -132,26 +133,29 @@ MySQL 에 User user라는 새로운 사용자를 추가하여 table을 구상하
 Server -> context.xml 파일 내에 jdbc 파일 경로를 설정하여
 요청이 있을 시 userdb 내의 table에 접근하도록 허용하게 context.xml 파일 작성
 
- <img src="./img/backend2.png"  width="300">
+ <img src="./img/back2.png"  width="300">
 
 ###### web.xml 작성
 
 인코딩 양식을 맞추기 위하여 UTF-8을 인코딩하는 CharacterEncodingFilter, ContextLoaderLister 및 java resource-ref 수정.
 
- <img src="./img/backend2.png"  width="300">
+ <img src="./img/back3.png"  width="300">
 
 ###### 로그인/회원가입/로그아웃 구현
 
 spms.vo 패키지 내의 User.java, spms.dao 패키지 내의 UserDao.java, spms.util내의 DBConnectionPool.java를 사용하여
 WebContent -> auth 폴더의 regier 및 login.jsp의 요청을 주면 userdb의 usertable 내용을 추가/확인 하도록 sql문을 작성
 
-<img src="./img/backend3.png"  width="300">
-
-###### 로그인/회원가입/로그아웃 구현
+<img src="./img/back5.png"  width="300">
+<img src="./img/back4.png"  width="300"><br>
+<img src="./img/back6.png"  width="300">
+<img src="./img/back7.png"  width="300">
+ 
+###### 게시판 구현
 
 위의 방식과 마찬가지로 userdb 내의 board 내용에 CRUD 기능을 추가 
 
-<img src="./img/backend3.png"  width="300">
+<img src="./img/back8.png"  width="300">
 
  </div>
 </details>
