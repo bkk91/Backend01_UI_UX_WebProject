@@ -85,7 +85,7 @@ Reference2 : https://unsplash.com/
 </details>
 
 <details>
-<summary> <b> 4. 모델링 </b> </summary>
+<summary> <b> 4. 모델링 (Modeling) </b> </summary>
 <div markdown="1">
  
  <img src="./img/modeling1.png"  width="400">
@@ -104,7 +104,7 @@ JSP로 변환된 UI를 구성하는 요소
 </details>
 
 <details>
-<summary> <b> 5. 웹 구현 </b> </summary>
+<summary> <b> 5. 웹 구현 (UI Implementation) </b> </summary>
 <div markdown="1">
  
  <img src="./img/main1.png"  width="300">
@@ -161,10 +161,10 @@ WebContent -> auth 폴더의 regier 및 login.jsp의 요청을 주면 userdb의 
 </details>
 
 <details>
-<summary> <b> 6. 평가 (Embody) </b> </summary>
+<summary> <b> 7. 평가 (Evaluation) </b> </summary>
 <div markdown="1">
  
-프로젝트를 시작하기에 앞서,
+ 프론트단 
 
  </div>
 </details>
